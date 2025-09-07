@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi, I’m [Ankur Rastogi].  <br>I enjoy coding, learning new technologies, and solving real-world problems with software. 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rastogiji_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ankur-rastogi-779229241) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rastogiankur034@gmail.com) 
